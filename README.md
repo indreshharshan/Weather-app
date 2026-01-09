@@ -2,8 +2,8 @@
 
 A modern and responsive web application that provides real-time weather information based on user location or searched cities. Built to deliver accurate weather forecasts with a clean and intuitive user interface.
 
-🔗 Live Website: https://weather-app-delta-woad-28.vercel.app/  
-🐙 GitHub Repository: https://github.com/indreshharshan/Weather-app
+🔗 Live Website: https://weather-app-delta-woad-28.vercel.app
+
 
 ---
 
